@@ -1,1 +1,1 @@
-# Mirralise
+# MyCompany
